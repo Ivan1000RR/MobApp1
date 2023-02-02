@@ -1,8 +1,7 @@
-package com.example.postalcode;
+package com.example.vidovic;
 
 import com.google.gson.annotations.SerializedName;
 
-import java.util.Date;
 import java.util.List;
 
 public class Mjesta {

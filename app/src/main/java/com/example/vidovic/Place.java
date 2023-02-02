@@ -1,4 +1,4 @@
-package com.example.postalcode;
+package com.example.vidovic;
 
 import com.google.gson.annotations.SerializedName;
 
